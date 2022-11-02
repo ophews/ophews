@@ -1,10 +1,19 @@
-**HOW TO CONTACT ME ───────────────**
+
+##
+
+**HOW TO CONTACT ME ─────────────────────────────────────────────────────────**
+
+
 
 Business enquiries: **ophewsmedia@gmail.com**
 
 or **[TWITTER](https://twitter.com/ophewsmedia)** • **[INSTAGRAM](https://instagram.com/ophewsmedia)** • **[DISCORD](https://discord.gg/bqYDewpZHC)**
 
-**WHAT PROGRAMS DO I USE? ──────────**
+##
+
+**WHAT PROGRAMS DO I USE? ─────────────────────────────────────────────────────**
+
+
 
 Visual Studio Code
 
@@ -14,18 +23,10 @@ Blender 3.0
 
 Adobe Photoshop
 
-**ABOUT MYSELF  ───────────────────**
+##
 
-Hello, I'm ophews but you can call me Joshua.
+**ABOUT MYSELF  ──────────────────────────────────────────────────────────────**
 
-There isn't much to say about me, so I will just list you some topics regarding me.
 
-**Pronouns:** he/him
 
-**Country:** Germany
-
-**Hobbies:** Programming, and Playing the Guitar.
-
-**Current Projects:** **Vension**, a Utility application made to help servers with their Moderation, Organisation and other. **[Click to see more.](https://discord.gg/hFwRWurS)**
-
-That's mostly it about me, if you would like to contact me please do it via. Discord or E-Mail. I'm more likely to respond if you contact me on Discord.
+Hello, I'm ophews but you can call me Joshua. I am a Programmer from Germany, in my free time I play the Guitar and my pronouns are he/him. Currently I am working on **Vension**, a Utility application made to help servers with their Moderation, Organisation and other. **[Click to see more.](https://discord.gg/hFwRWurS)**, I speak **English**, **German**, and I am currently learning **Russian** and **French**. I am currently learning **Discord Js14, HTML, and Phyton.** That's mostly it about me, if you would like to contact me please contact me via. my E-Mail.
