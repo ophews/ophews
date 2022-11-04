@@ -35,7 +35,7 @@
 ────────────────────────────────────────────────────────────────────────────────────
 
 Hello, I'm ophews but you can call me Joshua. I'm a learning Programmer from a small town in Germany.  
-  My pronouns are he/him. Currently I am working on **Vension**. I speak **English**, **German**, and I'm currently learning **Russian** and **French**.  
+  My pronouns are he/him. You can see my projects that I'm currently working on below. I speak **English**, **German**, and I'm currently learning **Russian** and **French**.  
   I'm currently learning **Discord Js14, HTML, and Python.** That's mostly it about me, if you would like to contact me please contact me via. [E-Mail](ophews@yahoo.com).
 
 ────────────────────────────────────────────────────────────────────────────────────
